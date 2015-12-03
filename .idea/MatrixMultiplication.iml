@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FileIO.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FileIO.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Integer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Integer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Postfix.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Postfix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack.h" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/bin" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include-fixed" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include/c++" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include/ssp" />
+          <root url="file://C:/cygwin64/usr/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include-fixed" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include/c++" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include/ssp" />
+          <root url="file://C:/cygwin64/usr/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
