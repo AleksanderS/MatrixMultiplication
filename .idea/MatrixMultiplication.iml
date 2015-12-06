@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Integer.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Integer.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Main.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Multiply.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Multiply.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Postfix.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Postfix.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Queue.c" isTestSource="false" />

@@ -8,6 +8,7 @@
 #include "Queue.h"
 #include "Postfix.h"
 #include "Integer.h"
+#include "Multiply.h"
 #include "FileIO.h"
 #include <stdio.h>
 #include <limits.h>
@@ -15,23 +16,11 @@
 
 
 
-typedef struct Matrix {
-
-    int matrix[200][200];
-    int width;
-    int height;
-
-} *MatrixP;
 
 void printOptimalParens(MatrixP, int , int, char *, int * );
 void populateMandSArray(MatrixP , MatrixP, int, int *);
 
 int main(){
-/* TESTING POSTFIX
-    char expression[50] = "(A + B) / (C + D)";
-    QueueP postfix1 = toPostfix(expression);
-    printNewExpression(postfix1);
-*/
 
     IntegerQueueP matrixDimensionsTmp = getMatrixDimensions();
     IntegerP numberOfMatrices = removeIntegerQueue(matrixDimensionsTmp);
