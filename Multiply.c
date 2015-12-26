@@ -17,6 +17,7 @@ MatrixP multiplyMatrices(MatrixP A, MatrixP B) {
     long sum = 0;
     for (i = 1; i <= A->height; i++)
         for (j = 1; j <= B->width; j++) {
+            sum = 0;
             for (k = 1; k <= A->width; k++) {
                 sum += sum + (A->matrix[i][k] * B->matrix[k][j]);
             }
